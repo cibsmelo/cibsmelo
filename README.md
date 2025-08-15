@@ -9,3 +9,12 @@ Sou uma estudante apaixonada por Desenvolvimento de Sistemas. Adoro mergulhar no
 🍫 Apaixonada por doces – não resisto a um bom chocolate enquanto programo!
 
 🤔 Curiosa por natureza – sempre buscando aprender algo novo, seja sobre frameworks, novas linguagens ou melhores práticas.
+
+
+
+email: 
+
+  <a href="mailto:melocibely33@gmail" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
