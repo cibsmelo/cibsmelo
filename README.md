@@ -1,4 +1,4 @@
-9Olá, eu sou a Cibely! 👋
+Olá, eu sou a Cibely! 👋
 
 Sou uma estudante apaixonada por Desenvolvimento de Sistemas. Adoro mergulhar no universo da programação e estou sempre em busca de novos desafios para expandir meu conhecimento.
 
@@ -22,4 +22,5 @@ Sou uma estudante apaixonada por Desenvolvimento de Sistemas. Adoro mergulhar no
   <a href="https://www.linkedin.com/in/cibely-sousa-a8812b370" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
 
