@@ -4,7 +4,7 @@ Sou uma estudante apaixonada por Desenvolvimento de Sistemas. Adoro mergulhar no
 
 📚 Estudante de Desenvolvimento de Sistemas
 
-🐍 Atualmente estudando Python – explorando tudo sobre essa linguagem poderosa e versátil.
+🐍 Atualmente estou estudando HTML, CSS e Python, buscando desenvolver minhas habilidades em programação e criação de sites.
 
 🍫 Apaixonada por doces – não resisto a um bom chocolate enquanto programo!
 
